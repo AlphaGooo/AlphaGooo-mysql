@@ -1,4 +1,4 @@
-# alphagooo-mysql
+# AlphaGooo-mysql
 个人mysql开发技术积累，不定期更新。
 
 ## 时间戳转换日期
